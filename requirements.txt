@@ -6,6 +6,6 @@ pytest
 opencv-python
 scipy
 sklearn
-tensorflow
+tensorflow-gpu
 typing
 wheel
